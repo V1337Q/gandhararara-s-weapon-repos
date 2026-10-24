@@ -2,4 +2,4 @@
 
 # Comparison
 
-![Alt Text](./docs/img1.png)
+![Alt Text](./docs/img1.jpg)
